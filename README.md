@@ -3,7 +3,7 @@
 
 - 🐞 Pronomes: ela/dela 
 - 🌱 Aprendendo python, java, html e css
-- 🔭 Eu falo português e estou aprendendo inglês
+
  <img align="right" alt="mendes-vscode" height="200" width="400" src="https://th.bing.com/th/id/R.c6656643f794a640ef16a78ed303b4fb?rik=ghKOrMeubNz%2fHw&pid=ImgRaw&r=0">
 
    ##
