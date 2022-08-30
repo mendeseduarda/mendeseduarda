@@ -28,7 +28,7 @@
 <div align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mendeseduarda&theme=radical"/>
   <a href="https://github.com/mendeseduarda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mendeseduarda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  
 </div>
 </div>
 
