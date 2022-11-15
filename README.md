@@ -1,4 +1,4 @@
-# 🎡Hi my name is Maria Eduarda Mendes
+# Hi my name is Maria Eduarda Mendes
 #### 🗺️ i'm from brazil
 #### 🌱 i'm starting
 
