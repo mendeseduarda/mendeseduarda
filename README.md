@@ -1,12 +1,8 @@
-# Hi my name is Maria Eduarda Mendes
-#### 🗺️ i'm from brazil
-#### 🌱 i'm starting
+# 👋 Maria Eduarda Mendes
 
-  
-   ##
    
    
-   ### IDEs/APIs and programming languages
+   ### IDEs/APIs e linguagens de programação
    <div align="left">
   <div style="display: inline_block"><br>
     <img align="center" alt="mendes-vscode" height="40" width="40" src="https://1.bp.blogspot.com/-iWAeFeP4hbI/XNLmU10juJI/AAAAAAAAvmk/z5z72PsArIsHdeNhHKYBfyiv8a5vCiqEACLcBGAs/s1600/eclipse1024.png"> 
