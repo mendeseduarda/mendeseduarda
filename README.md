@@ -1,5 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB7093&height=120&section=header"/>
 
-<h2 align="center">Oii👋! Meu nome é Maria Eduarda Mendes</h2>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DB7093&size=35&center=true&vCenter=true&width=1000&lines=olá,+Meu+nome+é+Maria+Eduarda+Mendes;Seja+Bem+Vindo(a))
+
+
 
 <img align="right" height="150" width="300" src="https://i.pinimg.com/originals/04/47/f3/0447f30cec49d4d6bcd44704c737c3ad.gif"  />
 
@@ -34,5 +37,4 @@
 
 ###
 
-###
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB7093&height=120&section=footer"/>
