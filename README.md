@@ -4,7 +4,6 @@
 
 
 
-<img align="right" height="150" width="300" src="https://i.pinimg.com/originals/04/47/f3/0447f30cec49d4d6bcd44704c737c3ad.gif"  />
 
 
 <div align="left">
