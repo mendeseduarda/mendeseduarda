@@ -7,11 +7,7 @@
 
 
 <div align="left">
-   <h3>Sobre mim:</h3>
-   <p> - Tenho 17 anos<br>
-       - 4/4 Ensino médio UTFPR (Universidade Tecnológica Federal do Paraná) </p>
-
-
+  
 </div>
 
 ##
