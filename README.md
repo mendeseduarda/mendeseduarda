@@ -1,6 +1,4 @@
-```js
-import Desenvolvedora from "mendeseduarda";
-```
+
 
 ## Olá, meu nome é Maria Eduarda Mendes!
 
