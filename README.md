@@ -1,20 +1,20 @@
 <!-- Profile README for Maria Eduarda Mendes -->
 
 
-<table>
-	<tr>
-		<td>
-			<img src="img/maria-pixel-computador.png" alt="Maria pixel computador" width="260" />
-		</td>
-		<td style="vertical-align: top; padding-left: 32px;">
-			<span style="font-size: 2.5rem; font-weight: bold; color: #4B00B4;">Maria Eduarda Mendes</span><br>
-			<span style="font-size: 1.5rem; font-weight: bold; color: #FF4F9A;">Web developer</span>
-			<p style="color: #fff; font-size: 1.1rem; max-width: 500px; margin-top: 16px;">
-				Computer Science student at UTFPR and Junior Web Developer, with experience in Next.js, React.js, TypeScript, Node.js, and Spring Boot. Currently focused on developing my skills and preparing for future challenges, while contributing to collaborative and impactful projects.
-			</p>
-		</td>
-	</tr>
-</table>
+
+<div align="left" style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
+	<img src="img/maria-pixel-computador.png" alt="Maria pixel computador" width="320" style="max-width: 100%; height: auto;" />
+	<div style="min-width: 280px; max-width: 700px;">
+		<h1 style="margin-bottom: 0.3em; font-size: 2.5em; font-weight: bold;">Maria Eduarda Mendes</h1>
+		<h2 style="margin-top: 0; font-size: 1.5em; font-weight: bold;">Web developer</h2>
+		<p style="font-size: 1.1em; line-height: 1.5;">
+			Computer Science student at UTFPR and Junior Web Developer, with experience in Next.js, React.js, TypeScript, Node.js, and Spring Boot. Currently focused on developing my skills and preparing for future challenges, while contributing to collaborative and impactful projects.
+		</p>
+		<a href="https://www.linkedin.com/in/mendeseduarda/" target="_blank">
+			<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+		</a>
+	</div>
+</div>
 
 <div align="left">
 </div>
@@ -39,5 +39,19 @@
 		<li><b>Methodologies:</b> Kanban, MVC</li>
 		<li><b>Languages:</b> Portuguese (native), English (intermediate)</li>
 	</ul>
-</div>
+	</div>
+	---
+
+	<div align="left">
+### GitHub Metrics
+
+#### Full-year commit calendar
+![Full-year commit calendar](./metrics/metrics.plugin.isocalendar.fullyear.svg)
+
+#### Most used languages
+![Most used languages](./metrics/metrics.plugin.languages.svg)
+
+#### GitHub projects
+![GitHub projects](./metrics/metrics.plugin.projects.svg)
+	</div>
 
