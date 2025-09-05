@@ -1,15 +1,20 @@
 <!-- Profile README for Maria Eduarda Mendes -->
 
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-	<img src="img/maria-pixel-computador.png" alt="Maria pixel computador" width="180" style="margin-right: 32px; float: left;" />
-	<div align="left" style="margin-left: 32px;">
-		<h1 style="color: #7c3aed;">Maria Eduarda Mendes</h1>
-		<h2 style="color: #a78bfa;">Computer Science student</h2>
-		<p style="color: #fff; max-width: 400px;">
-			Computer Science student at UTFPR and Junior Web Developer, with experience in Next.js, React.js, TypeScript, Node.js, and Spring Boot. Currently focused on developing my skills and preparing for future challenges, while contributing to collaborative and impactful projects.
-		</p>
-	</div>
-</div>
+
+<table>
+	<tr>
+		<td>
+			<img src="img/maria-pixel-computador.png" alt="Maria pixel computador" width="260" />
+		</td>
+		<td style="vertical-align: top; padding-left: 32px;">
+			<span style="font-size: 2.5rem; font-weight: bold; color: #4B00B4;">Maria Eduarda Mendes</span><br>
+			<span style="font-size: 1.5rem; font-weight: bold; color: #FF4F9A;">Web developer</span>
+			<p style="color: #fff; font-size: 1.1rem; max-width: 500px; margin-top: 16px;">
+				Computer Science student at UTFPR and Junior Web Developer, with experience in Next.js, React.js, TypeScript, Node.js, and Spring Boot. Currently focused on developing my skills and preparing for future challenges, while contributing to collaborative and impactful projects.
+			</p>
+		</td>
+	</tr>
+</table>
 
 <div align="left">
 </div>
