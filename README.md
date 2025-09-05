@@ -41,19 +41,5 @@
 
 ---
 
-<div align="left">
-	<h3>GitHub Metrics</h3>
-	<p>
-		<b>Isometric Commit Calendar (Full Year)</b><br>
-		<img src="https://raw.githubusercontent.com/mendeseduarda/mendeseduarda/master/metrics/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Commit Calendar" />
-	</p>
-	<p>
-		<b>Most Used Languages</b><br>
-		<img src="https://raw.githubusercontent.com/mendeseduarda/mendeseduarda/master/metrics/metrics.plugin.languages.svg" alt="Most Used Languages" />
-	</p>
-	<p>
-		<b>GitHub Projects</b><br>
-		<img src="https://raw.githubusercontent.com/mendeseduarda/mendeseduarda/master/metrics/metrics.plugin.projects.svg" alt="GitHub Projects" />
-	</p>
-</div>
+
 
