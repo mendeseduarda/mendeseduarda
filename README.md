@@ -43,6 +43,10 @@
 </div>
 <div align="center">
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=mendeseduarda&radius=16&theme=redical&area=true&order=5&line=#483D8B&title_color=#808000&point=#483D8B&custom_title=red&area_color=#808000&bg_color=#808000&color=#808000" height="300" alt="activity-graph graph"  />
+	
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mendeseduarda&color=ff69b4" alt="Profile views"/>
 </div>
 
 ---
