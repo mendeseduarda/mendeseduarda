@@ -1,14 +1,10 @@
 
 <!-- Profile README for Maria Eduarda Mendes -->
 
-<p align="center">
-  <img src="img/maria-pixel-computador.png" width="320" alt="Maria pixel computador" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=DB7093&size=35&center=true&vCenter=true&width=600&lines=Hello,+I'm+Maria+Eduarda+Mendes;" alt="Typing SVG" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF4F9A&size=28&center=true&vCenter=true&width=400&lines=Web+developer" alt="Typing SVG Web developer" />
+
 </p>
 
 <p align="center">
@@ -25,6 +21,7 @@
 		<li><b>Languages:</b>
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" alt="Java" /> Java,
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" alt="JavaScript" /> JavaScript,
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" alt="Python" /> Python,
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" alt="TypeScript" /> TypeScript,
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" alt="SQL" /> SQL,
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" alt="HTML" /> HTML,
