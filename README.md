@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Computer Science student at UTFPR and Junior Web Developer, with experience in Next.js, React.js, TypeScript, Node.js, and Spring Boot. Currently focused on developing my skills and preparing for future challenges, while contributing to collaborative and impactful projects.
+  Computer Science student at UTFPR and Junior Web Developer, with experience in Next.js, React.js, TypeScript and Node.js. Currently focused on developing my skills and preparing for future challenges, while contributing to collaborative and impactful projects.
   <br><br>
   <a href="https://www.linkedin.com/in/mendeseduarda/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
