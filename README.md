@@ -38,6 +38,46 @@
 		<li><b>Languages:</b> Portuguese, English</li>
 	</ul>
 </div>
+<h2>Projects</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Name</th>
+      <th>Summary</th>
+      <th>Status</th>
+      <th>Technology</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/mendeseduarda/algorithms-benchmark">algorithms-benchmark</a></td>
+      <td>Algorithms Benchmark</td>
+      <td>A collection of algorithm implementations in multiple programming languages for performance benchmarking and comparison.</td>
+      <td>Not started</td>
+      <td>Python, C, C++, etc..</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mendeseduarda/LeetCode">LeetCode</a></td>
+      <td>LeetCode Solutions</td>
+      <td>A collection of my solutions to LeetCode problems. Dedicated to practicing and improving problem-solving and coding skills.</td>
+      <td>In progress</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mendeseduarda/color-detection">color-detection</a></td>
+      <td>Real-time Color Detection</td>
+      <td>A simple real-time color detection project using OpenCV in Python. Detects specific colors from webcam and highlights them.</td>
+      <td>Not started</td>
+      <td>Python, OpenCV, NumPy</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<div>
+ 
+</div>
 <div align="center">
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=mendeseduarda&radius=16&theme=redical&area=true&order=5&line=#483D8B&title_color=#808000&point=#483D8B&custom_title=red&area_color=#808000&bg_color=#808000&color=#808000" height="300" alt="activity-graph graph"  />
 	
