@@ -68,7 +68,7 @@
       <td><a href="https://github.com/mendeseduarda/color-detection">color-detection</a></td>
       <td>Real-time Color Detection</td>
       <td>A simple real-time color detection project using OpenCV in Python. Detects specific colors from webcam and highlights them.</td>
-      <td>Not started</td>
+      <td>In progress</td>
       <td>Python, OpenCV, NumPy</td>
     </tr>
   </tbody>
