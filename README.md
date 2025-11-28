@@ -31,8 +31,6 @@
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" alt="React.js" /> React.js,
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20" alt="Next.js" /> Next.js,
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" alt="Node.js" /> Node.js,
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20" alt="Express.js" /> Express.js,
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20" alt="Spring Boot" /> Spring Boot
 		</li>
 		<li><b>Methodologies:</b> Kanban, MVC</li>
 		<li><b>Languages:</b> Portuguese, English</li>
@@ -64,13 +62,7 @@
       <td>In progress</td>
       <td>Python</td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/mendeseduarda/color-detection">color-detection</a></td>
-      <td>Real-time Color Detection</td>
-      <td>A simple real-time color detection project using OpenCV in Python. Detects specific colors from webcam and highlights them.</td>
-      <td>In progress</td>
-      <td>Python, OpenCV, NumPy</td>
-    </tr>
+
   </tbody>
 </table>
 
