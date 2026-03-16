@@ -10,9 +10,7 @@ Brazilian Computer Science student.
 - Science  
 - Research
 - Data Science
-- Computer Vision 
 - Machine Learning     
-- Natural Language Processing (NLP)
 
 ## Contact
 - LinkedIn: [mendeseduarda](https://www.linkedin.com/in/mendeseduarda)
