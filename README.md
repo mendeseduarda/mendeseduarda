@@ -1,16 +1,6 @@
+# [mariamendes.com.br](https://mariamendes.com.br)
 
-<!-- Profile README for Maria Eduarda Mendes -->
+ Interests: Algorithms, Machine Learning, Large Language Models (LLMs) and Research.
 
+- Find me on LinkedIn: [mendeseduarda](https://www.linkedin.com/in/mendeseduarda) 
 
-# Maria Eduarda Mendes
-
-Brazilian Computer Science student.
-
-## Interests
-- Science  
-- Research
-- Data Science
-- Machine Learning     
-
-## Contact
-- LinkedIn: [mendeseduarda](https://www.linkedin.com/in/mendeseduarda)
